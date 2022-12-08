@@ -1,0 +1,10 @@
+01:letic:palac:guerr:1972:0666:40
+02:Peppe:palac:guerr:2022:0333:33
+Column: year
+All data:
+ 	Max: 2022
+ 	Min: 2022
+ 	Mean: 2005.33
+ 	Median: 2022.00
+ 	Mode: 2022.00
+ 	Size: 3
